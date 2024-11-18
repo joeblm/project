@@ -1,4 +1,4 @@
-# File Names, Project Organization and Virtual Environments¶
+# File Names, Project Organization and Virtual Environments
 
 This repo was used to complete Assignment 6. In this module we explored
 
